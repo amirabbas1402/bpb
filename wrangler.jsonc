@@ -1,0 +1,5 @@
+{
+  "name": "bpb",
+  "compatibility_date": "2025-10-01",
+  "main": "worker.js"
+}
